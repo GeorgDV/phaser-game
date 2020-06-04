@@ -1,6 +1,8 @@
-# Bomberman Phaser Game
+# Bomberman Phaser Game (WIP)
 
-## Startup
+Bomberman startup game mechanics made with **Phaser 3** HTML5 game-development framework.
+
+## Startup Guide
 
  - Clone Repo.
  - Install dependecies: `npm install`.
